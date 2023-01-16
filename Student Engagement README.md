@@ -1,6 +1,6 @@
 # Problem Statement
 
-Learn Data science is an e-learning platform specialized in offering high quality data science courses and tracks that would take you from a beginner to a qualified data scientist. 365 data science is a relatively new platform with alot of strong competitors in the same industry. In this project I’m trying to reveal useful data-driven information that would increase the engagement on the platform using EDA and by creating a dashboard.
+Learn Data science is an e-learning platform specialized in offering high quality data science courses and tracks that would take you from a beginner to a qualified data scientist. Learn Data Science is a relatively new platform with alot of strong competitors in the same industry. In this project I’m trying to reveal useful data-driven information that would increase the engagement on the platform using EDA and by creating a dashboard.
 
 # Questions
 
