@@ -1,6 +1,6 @@
 # Problem Statement
 
-365 data science is an e-learning platform specialized in offering high quality data science courses and tracks that would take you from a beginner to a qualified data scientist. 365 data science is a relatively new platform with alot of strong competitors in the same industry. In this project I’m trying to reveal useful data-driven information that would increase the engagement on the platform using EDA and by creating a dashboard.
+Learn Data science is an e-learning platform specialized in offering high quality data science courses and tracks that would take you from a beginner to a qualified data scientist. 365 data science is a relatively new platform with alot of strong competitors in the same industry. In this project I’m trying to reveal useful data-driven information that would increase the engagement on the platform using EDA and by creating a dashboard.
 
 # Questions
 
@@ -22,7 +22,7 @@ using the platform for either learning or taking quizzes or exams which means th
 
 ◉ Introduction to Data Science, SQL, Statistics, Excel and Python are top 5 most watched courses as majority of the students prefer to watch basic courses compared to advance.
 
-◉ 98.67% of students are watching lessons.
+◉ 98% of students are watching lessons.
 
 ◉ 35% of students have given quizzes rest 64% have not.
 
