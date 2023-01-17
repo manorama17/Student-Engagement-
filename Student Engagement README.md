@@ -32,7 +32,7 @@ using the platform for either learning or taking quizzes or exams which means th
 
 ◉ Gamify the Platform(eg.Badges, Points, Levels and Leaderboards) so it can encourage the students to learn more and engage at the same time.
 
-◉ A peer-to-peer learning discussion forum can address feelings of isolation, increase engagement and provide valuable feedback for improving training processes and content.
+◉ A peer-to-peer learning discussion forum can address feelings of isolation, increase engagement and provide a valuable feedback at the same time for improving training processes and content.
 
 ◉ The next video lectures should only be unlocked once the quiz from the previous lecture is completed, since only 35% of students have given quizzes.
 
