@@ -42,4 +42,4 @@ using the platform for either learning or taking quizzes or exams which means th
 
 Libraraies - Pandas, Matplotlib, Seaborn.
 
-Tool - Power BI, Excel.
+Tool - Power BI.
